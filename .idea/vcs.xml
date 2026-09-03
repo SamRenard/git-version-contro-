@@ -7,5 +7,7 @@
     <mapping directory="$PROJECT_DIR$/FastAPI_Day21" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/FastAPI_Day24" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fastapi-auth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-practice-day26/git-practiceday26" vcs="Git" />
   </component>
 </project>
